@@ -3,7 +3,7 @@
 # Development
 
 ## Install dev requirements
-`pip install -r dev-requirements.pip`
+`pip install -r requirements-dev.txt`
 
 ## Formatting
 - `black .`
